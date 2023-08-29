@@ -1,4 +1,4 @@
-
+// double also work 
 
 void main(){
 
@@ -8,7 +8,7 @@ void main(){
                         print("one");
                 case 2.0:
                         print("two");
-                case 3:
+                case 2:
                         print("three");
                 case 4.0:
                         print("four");

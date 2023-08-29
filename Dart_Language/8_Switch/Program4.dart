@@ -1,4 +1,4 @@
-// same cases are also allowed
+// same cases are also allowed because it chec object address means just content in given condition
 void main(){
 
         int x = 2;
