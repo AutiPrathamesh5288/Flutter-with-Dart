@@ -5,6 +5,8 @@ class Demo {
 }
 void main(){
 	Demo obj = new Demo();
+
+	
 }
 /*
 Error: Constructors can't have a return type.
